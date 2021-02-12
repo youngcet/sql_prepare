@@ -1,5 +1,4 @@
 <?php
-	include ('db_properties.inc');
 
 	class Database
 	{
